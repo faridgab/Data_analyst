@@ -61,3 +61,6 @@ seats — количество посадочных мест.
 ## Используемые бибилотеки
 
 *pandas, plotly, scikit learn, scipy, matplotlib*
+
+## Статус:
+Проект выполнен.
