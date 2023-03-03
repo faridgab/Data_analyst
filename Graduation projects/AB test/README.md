@@ -51,3 +51,7 @@
 ## Используемые библиотеки
 
 *pandas, scipy, numpy, matplotlib, seaborn*
+
+## Статус:
+
+Проект выполнен.
