@@ -17,3 +17,7 @@
 
 ## Используемые библиотеки
 *pandas, numpy, matplotlib, seaborn, datetime, scipy*
+
+## Статус:
+
+Проект выполнен.
