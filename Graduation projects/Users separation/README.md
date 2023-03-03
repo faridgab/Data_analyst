@@ -50,3 +50,7 @@ https://public.tableau.com/views/DashboardtofinalprojectGabetdinovFarid/sheet3?:
 ## Используемые библиотеки
 
 *pandas, plotly, scipy, stats, maths, matplotlib, seaborn*
+
+## Статус:
+
+Проект выполнен.
