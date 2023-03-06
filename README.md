@@ -14,3 +14,4 @@
 
 
 ## Программа обучения:
+https://github.com/faridgab/Data_analyst/blob/main/DA_diplom.png
