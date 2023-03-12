@@ -13,9 +13,6 @@
 - Работа с гипотезами
 
 
-## Программа обучения:
-![-](https://github.com/faridgab/Data_analyst/blob/main/DA_diplom.png)
-![-](https://github.com/faridgab/Data_analyst/blob/main/DA_diplom_ENG.png)
 
 ## Проекты:
 | №| Название и ссылка | О чем проект                                                     | Навыки и инструменты           |  
